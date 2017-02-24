@@ -1,0 +1,10 @@
+D:\College\Visual Basic\VB2015\Chap05\Snowboard Solution-If\Snowboard Project\bin\Debug\Snowboard Project.exe.config
+D:\College\Visual Basic\VB2015\Chap05\Snowboard Solution-If\Snowboard Project\bin\Debug\Snowboard Project.exe
+D:\College\Visual Basic\VB2015\Chap05\Snowboard Solution-If\Snowboard Project\bin\Debug\Snowboard Project.pdb
+D:\College\Visual Basic\VB2015\Chap05\Snowboard Solution-If\Snowboard Project\bin\Debug\Snowboard Project.xml
+D:\College\Visual Basic\VB2015\Chap05\Snowboard Solution-If\Snowboard Project\obj\Debug\Snowboard_Project.frmMain.resources
+D:\College\Visual Basic\VB2015\Chap05\Snowboard Solution-If\Snowboard Project\obj\Debug\Snowboard_Project.Resources.resources
+D:\College\Visual Basic\VB2015\Chap05\Snowboard Solution-If\Snowboard Project\obj\Debug\Snowboard Project.vbproj.GenerateResource.Cache
+D:\College\Visual Basic\VB2015\Chap05\Snowboard Solution-If\Snowboard Project\obj\Debug\Snowboard Project.exe
+D:\College\Visual Basic\VB2015\Chap05\Snowboard Solution-If\Snowboard Project\obj\Debug\Snowboard Project.xml
+D:\College\Visual Basic\VB2015\Chap05\Snowboard Solution-If\Snowboard Project\obj\Debug\Snowboard Project.pdb
