@@ -1,0 +1,10 @@
+D:\College\Visual Basic\VB2015\Chap05\ABC Solution\ABC Project\bin\Debug\ABC Project.exe.config
+D:\College\Visual Basic\VB2015\Chap05\ABC Solution\ABC Project\bin\Debug\ABC Project.exe
+D:\College\Visual Basic\VB2015\Chap05\ABC Solution\ABC Project\bin\Debug\ABC Project.pdb
+D:\College\Visual Basic\VB2015\Chap05\ABC Solution\ABC Project\bin\Debug\ABC Project.xml
+D:\College\Visual Basic\VB2015\Chap05\ABC Solution\ABC Project\obj\Debug\ABC_Project.frmMain.resources
+D:\College\Visual Basic\VB2015\Chap05\ABC Solution\ABC Project\obj\Debug\ABC_Project.Resources.resources
+D:\College\Visual Basic\VB2015\Chap05\ABC Solution\ABC Project\obj\Debug\ABC Project.vbproj.GenerateResource.Cache
+D:\College\Visual Basic\VB2015\Chap05\ABC Solution\ABC Project\obj\Debug\ABC Project.exe
+D:\College\Visual Basic\VB2015\Chap05\ABC Solution\ABC Project\obj\Debug\ABC Project.xml
+D:\College\Visual Basic\VB2015\Chap05\ABC Solution\ABC Project\obj\Debug\ABC Project.pdb
