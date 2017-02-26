@@ -1,0 +1,11 @@
+D:\College\Visual Basic\VB2015\Chap05\New Pay Solution\New Pay Project\bin\Debug\New Pay Project.exe.config
+D:\College\Visual Basic\VB2015\Chap05\New Pay Solution\New Pay Project\bin\Debug\New Pay Project.exe
+D:\College\Visual Basic\VB2015\Chap05\New Pay Solution\New Pay Project\bin\Debug\New Pay Project.pdb
+D:\College\Visual Basic\VB2015\Chap05\New Pay Solution\New Pay Project\bin\Debug\New Pay Project.xml
+D:\College\Visual Basic\VB2015\Chap05\New Pay Solution\New Pay Project\obj\Debug\New Pay Project.vbprojResolveAssemblyReference.cache
+D:\College\Visual Basic\VB2015\Chap05\New Pay Solution\New Pay Project\obj\Debug\New_Pay_Project.frmMain.resources
+D:\College\Visual Basic\VB2015\Chap05\New Pay Solution\New Pay Project\obj\Debug\New_Pay_Project.Resources.resources
+D:\College\Visual Basic\VB2015\Chap05\New Pay Solution\New Pay Project\obj\Debug\New Pay Project.vbproj.GenerateResource.Cache
+D:\College\Visual Basic\VB2015\Chap05\New Pay Solution\New Pay Project\obj\Debug\New Pay Project.exe
+D:\College\Visual Basic\VB2015\Chap05\New Pay Solution\New Pay Project\obj\Debug\New Pay Project.xml
+D:\College\Visual Basic\VB2015\Chap05\New Pay Solution\New Pay Project\obj\Debug\New Pay Project.pdb
